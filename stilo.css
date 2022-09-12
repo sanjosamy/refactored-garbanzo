@@ -14,5 +14,9 @@ h1, h2{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+title {
+text-align: center
+;
+}
 
 
